@@ -1,6 +1,8 @@
 # LED-Matrix-Wall
 ## Modular recycled crate/bottle LED matrix wall
 
+![wall](https://user-images.githubusercontent.com/33088785/119272966-9de53c00-bc00-11eb-93fd-9585ae915c1f.gif)
+
 ### Software Installation
 
 Install Arduino IDE: 
